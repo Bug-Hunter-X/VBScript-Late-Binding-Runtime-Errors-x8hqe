@@ -1,0 +1,1 @@
+Late Binding: VBScript's late binding can lead to runtime errors that are difficult to debug during development.  If you use an object without explicitly declaring it, errors might only surface when that specific object isn't available at runtime. This makes it harder to identify the problem during testing.
